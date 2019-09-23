@@ -1,0 +1,85 @@
+.block {
+    width: 900px;
+    margin: auto;
+    padding: 20px;
+    margin-top: 100px;
+    background: #e1e1e1;
+    text-align: right;
+}
+button {
+    border: none;
+}
+button span {
+    color: #000080;
+    border-bottom: 1px dashed #000080;
+    color: #000080;
+}
+button span:hover {
+    border-bottom: none;
+}
+.divFlex {
+    display:flex;
+    flex-wrap: wrap;
+    
+}
+.block1 {
+   
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    background: #734632;
+    color: #e1e1e1;
+    font-size: 100px;
+    text-align: center; 
+    line-height: 200px;
+}
+.but {
+    position: relative;
+    right: 770px;
+}
+.icon1 {
+    background-image: url(button/glyphicons-halflings.png);
+    background-repeat: no-repeat;
+    background-position: 53% -1%;
+    width: 23px; height: 18px;
+    text-align: right;
+    border: none;
+    }
+.icon2 {
+    background-image: url(button/glyphicons-halflings.png);
+    background-repeat: no-repeat;
+    background-position: 47% -1%;
+    width: 23px; height: 18px;
+    text-align: right;
+    border: none;
+}
+.highlight {
+    background: brown;
+}
+    
+.size1 {
+    width: 420px;
+    height: 420px;
+    margin: 10px;
+    color: #e1e1e1;
+    font-size: 200px;
+    text-align: center; 
+    line-height: 400px;
+}
+.ten {  
+    width: 200px;
+    height: 200px;
+    margin: 10px;;
+    background: #70767c;
+    border: 1px dotted black;
+}
+
+
+.blocks2 .ten {
+    width: 420px;
+    height: 420px;
+    margin: 10px;
+    font-size: 200px;
+    background: #70767c;
+    border: 1px dotted black;
+}
